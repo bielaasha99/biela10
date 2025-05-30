@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("trust the proses")
+st.title("trust the prosesss")
 st.write(
 "kapan peka woiii"
 )
